@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="iYP-4N-Ew4">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="iYP-4N-Ew4">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -430,10 +430,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pvw-0S-hQR">
-                                <rect key="frame" x="16" y="150" width="343" height="128"/>
+                                <rect key="frame" x="16" y="150" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">"Reacciones Químicas" es una aplicación desarrollada para la cliente María del Socorro Tamez Ramírez por estudiantes del Tecnológico de Monterrey Campus Monterrey, durante el curso de "Administración de proyectos de Ingeniería de software" impartido por la Maestra Jakeline Marcos durante el semestre Enero - Mayo 2018.</string>
+                                <string key="text">"Reacciones Químicas" es una aplicación desarrollada como una prueba de concepto para un cliente particular de Softtek. Mostrando capabilidades de AR en dispositivos específicos para aulas de clase. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -441,7 +441,7 @@
                                 <rect key="frame" x="16" y="523" width="343" height="90"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">"Reacciones Químicas" es una aplicación disponible para su descarga de manera gratuita por lo cual se prohibe se prohibe su distirbución y usos con fines de lucro.</string>
+                                <string key="text">"Reacciones Químicas" es una aplicación no disponible para su descarga, por lo cual se prohibe se prohibe su distribución y uso externo para cualquier fin no consultado previamente.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -449,13 +449,9 @@
                                 <rect key="frame" x="16" y="334" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">Luis Alfonso Rojo Sánchez
-Roberto Pérez Barrera
-Miguel Angel Alvarado López
-Alfredo Osuna
-Emiliano Aguirre
-Diego Solis Cortez
-Ricardo Cázares</string>
+                                <string key="text">Jorge Bohorquez Sánchez
+Ricardo Adrian Trevizo Garcia
+Miguel Angel Alvarado López</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
